@@ -1,0 +1,309 @@
+{
+  "prompts": [
+    {
+      "id": "prompt_001",
+      "imageUrl": "https://picsum.photos/300/400?random=1",
+      "prompt": "A majestic mountain landscape at golden hour with snow-capped peaks reflecting in a crystal clear alpine lake, surrounded by dense pine forests, photorealistic, 8K resolution, dramatic lighting",
+      "category": "New",
+      "tags": ["landscape", "mountains", "nature", "golden hour"],
+      "popularity": 95,
+      "createdAt": "2025-01-15T10:30:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": "prompt_002", 
+      "imageUrl": "https://picsum.photos/300/400?random=2",
+      "prompt": "Portrait of a mysterious woman with piercing emerald eyes, flowing auburn hair, wearing elegant Victorian dress, studio lighting, professional photography, hyperrealistic, bokeh background",
+      "category": "Portrait",
+      "tags": ["portrait", "woman", "victorian", "mysterious"],
+      "popularity": 88,
+      "createdAt": "2025-01-14T15:45:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_003",
+      "imageUrl": "https://picsum.photos/300/400?random=3", 
+      "prompt": "Futuristic cyberpunk cityscape at night with neon lights, flying cars, towering skyscrapers with holographic advertisements, rain-soaked streets reflecting colorful lights, cinematic composition",
+      "category": "Cinematic",
+      "tags": ["cyberpunk", "city", "futuristic", "neon"],
+      "popularity": 92,
+      "createdAt": "2025-01-13T20:15:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": "prompt_004",
+      "imageUrl": "https://picsum.photos/300/400?random=4",
+      "prompt": "Majestic African lion in golden savanna grass during sunset, powerful stance, detailed fur texture, wildlife photography, shallow depth of field, warm color palette",
+      "category": "Trending",
+      "tags": ["lion", "wildlife", "africa", "sunset"],
+      "popularity": 87,
+      "createdAt": "2025-01-12T09:20:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_005",
+      "imageUrl": "https://picsum.photos/300/400?random=5",
+      "prompt": "Abstract geometric composition with vibrant rainbow colors, crystalline structures, mathematical precision, modern art style, high contrast, digital art masterpiece",
+      "category": "New",
+      "tags": ["abstract", "geometric", "colorful", "modern"],
+      "popularity": 76,
+      "createdAt": "2025-01-11T14:30:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_006",
+      "imageUrl": "https://picsum.photos/300/400?random=6",
+      "prompt": "Vintage 1960s muscle car on empty desert highway, dramatic storm clouds approaching, cinematic wide shot, film grain effect, moody atmosphere, golden hour lighting",
+      "category": "Cinematic",
+      "tags": ["vintage", "car", "desert", "dramatic"],
+      "popularity": 91,
+      "createdAt": "2025-01-10T18:45:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": "prompt_007",
+      "imageUrl": "https://picsum.photos/300/400?random=7",
+      "prompt": "Enchanted forest with bioluminescent mushrooms, fairy lights dancing between ancient trees, magical atmosphere, fantasy art style, ethereal blue and green lighting",
+      "category": "Trending",
+      "tags": ["fantasy", "forest", "magical", "bioluminescent"],
+      "popularity": 94,
+      "createdAt": "2025-01-09T12:00:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": "prompt_008",
+      "imageUrl": "https://picsum.photos/300/400?random=8",
+      "prompt": "Space exploration scene with astronaut floating near a colorful nebula, distant planets visible, starfield background, sci-fi concept art, epic scale, photorealistic rendering",
+      "category": "New",
+      "tags": ["space", "astronaut", "nebula", "sci-fi"],
+      "popularity": 89,
+      "createdAt": "2025-01-08T16:20:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_009",
+      "imageUrl": "https://picsum.photos/300/400?random=9",
+      "prompt": "Portrait of an elderly wise man with weathered face, deep wrinkles telling stories, kind eyes, silver beard, natural lighting, black and white photography, emotional depth",
+      "category": "Portrait",
+      "tags": ["elderly", "wisdom", "black white", "emotional"],
+      "popularity": 85,
+      "createdAt": "2025-01-07T11:30:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_010",
+      "imageUrl": "https://picsum.photos/300/400?random=10",
+      "prompt": "Dramatic ocean storm with massive waves crashing against rocky cliffs, lightning illuminating dark storm clouds, cinematic composition, high contrast, nature's power",
+      "category": "Cinematic",
+      "tags": ["ocean", "storm", "dramatic", "lightning"],
+      "popularity": 93,
+      "createdAt": "2025-01-06T19:45:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": "prompt_011",
+      "imageUrl": "https://picsum.photos/300/400?random=11",
+      "prompt": "Steampunk mechanical dragon with brass gears, copper pipes, steam effects, intricate details, fantasy meets industrial design, warm metallic tones, concept art style",
+      "category": "Trending",
+      "tags": ["steampunk", "dragon", "mechanical", "fantasy"],
+      "popularity": 88,
+      "createdAt": "2025-01-05T13:15:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_012",
+      "imageUrl": "https://picsum.photos/300/400?random=12",
+      "prompt": "Japanese cherry blossom garden in full bloom, traditional pagoda in background, serene pond reflecting pink petals, soft natural lighting, peaceful atmosphere, spring season",
+      "category": "New",
+      "tags": ["cherry blossom", "japanese", "garden", "serene"],
+      "popularity": 90,
+      "createdAt": "2025-01-04T08:30:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": "prompt_013",
+      "imageUrl": "https://picsum.photos/300/400?random=13",
+      "prompt": "Portrait of a young ballerina in white tutu, graceful pose en pointe, dramatic stage lighting, elegant movement captured, artistic photography, black background",
+      "category": "Portrait",
+      "tags": ["ballerina", "dance", "elegant", "artistic"],
+      "popularity": 82,
+      "createdAt": "2025-01-03T17:20:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_014",
+      "imageUrl": "https://picsum.photos/300/400?random=14",
+      "prompt": "Post-apocalyptic wasteland with abandoned city ruins, overgrown vegetation reclaiming buildings, dramatic sky, cinematic wide shot, desolate atmosphere, muted color palette",
+      "category": "Cinematic",
+      "tags": ["post-apocalyptic", "ruins", "desolate", "overgrown"],
+      "popularity": 86,
+      "createdAt": "2025-01-02T21:00:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_015",
+      "imageUrl": "https://picsum.photos/300/400?random=15",
+      "prompt": "Underwater coral reef ecosystem with tropical fish, vibrant colors, sunlight filtering through water, marine life diversity, natural documentary style, crystal clear water",
+      "category": "Trending",
+      "tags": ["underwater", "coral reef", "tropical fish", "marine"],
+      "popularity": 91,
+      "createdAt": "2025-01-01T10:45:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": "prompt_016",
+      "imageUrl": "https://picsum.photos/300/400?random=16",
+      "prompt": "Medieval fantasy castle on a misty mountain peak, dragons circling overhead, magical aurora in the sky, epic fantasy landscape, detailed architecture, atmospheric lighting",
+      "category": "New",
+      "tags": ["medieval", "castle", "dragons", "fantasy"],
+      "popularity": 95,
+      "createdAt": "2024-12-31T14:30:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": "prompt_017",
+      "imageUrl": "https://picsum.photos/300/400?random=17",
+      "prompt": "Portrait of a tribal warrior with traditional face paint, feathered headdress, intense gaze, cultural authenticity, natural outdoor lighting, documentary photography style",
+      "category": "Portrait",
+      "tags": ["tribal", "warrior", "traditional", "cultural"],
+      "popularity": 84,
+      "createdAt": "2024-12-30T12:15:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_018",
+      "imageUrl": "https://picsum.photos/300/400?random=18",
+      "prompt": "Noir detective scene in 1940s alley, mysterious figure in trench coat, fog-shrouded street lamps, black and white cinematography, film noir aesthetic, moody atmosphere",
+      "category": "Cinematic",
+      "tags": ["noir", "detective", "1940s", "mysterious"],
+      "popularity": 87,
+      "createdAt": "2024-12-29T20:30:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_019",
+      "imageUrl": "https://picsum.photos/300/400?random=19",
+      "prompt": "Bioluminescent alien forest on distant planet, glowing plants and creatures, otherworldly atmosphere, sci-fi landscape, vibrant purples and blues, concept art style",
+      "category": "Trending",
+      "tags": ["alien", "bioluminescent", "sci-fi", "otherworldly"],
+      "popularity": 92,
+      "createdAt": "2024-12-28T16:45:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": "prompt_020",
+      "imageUrl": "https://picsum.photos/300/400?random=20",
+      "prompt": "Macro photography of water droplets on flower petals after morning rain, crystal clear detail, shallow depth of field, natural lighting, botanical art style",
+      "category": "New",
+      "tags": ["macro", "water droplets", "flowers", "botanical"],
+      "popularity": 79,
+      "createdAt": "2024-12-27T09:20:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_021",
+      "imageUrl": "https://picsum.photos/300/400?random=21",
+      "prompt": "Portrait of a cyberpunk hacker with neon face tattoos, augmented reality glasses, holographic displays, futuristic fashion, dramatic blue and pink lighting",
+      "category": "Portrait",
+      "tags": ["cyberpunk", "hacker", "futuristic", "neon"],
+      "popularity": 89,
+      "createdAt": "2024-12-26T18:00:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": "prompt_022",
+      "imageUrl": "https://picsum.photos/300/400?random=22",
+      "prompt": "Epic space battle between futuristic starships, laser beams crossing dark space, explosion effects, distant galaxy background, sci-fi action scene, cinematic scale",
+      "category": "Cinematic",
+      "tags": ["space battle", "starships", "sci-fi", "epic"],
+      "popularity": 94,
+      "createdAt": "2024-12-25T15:30:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": "prompt_023",
+      "imageUrl": "https://picsum.photos/300/400?random=23",
+      "prompt": "Ancient Egyptian temple interior with hieroglyphics, golden artifacts, rays of sunlight through stone openings, archaeological discovery, mysterious atmosphere, historical accuracy",
+      "category": "Trending",
+      "tags": ["ancient egypt", "temple", "hieroglyphics", "archaeological"],
+      "popularity": 86,
+      "createdAt": "2024-12-24T11:45:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_024",
+      "imageUrl": "https://picsum.photos/300/400?random=24",
+      "prompt": "Minimalist zen garden with raked sand patterns, single bonsai tree, stone elements, peaceful meditation space, natural lighting, Japanese aesthetic, tranquil mood",
+      "category": "New",
+      "tags": ["zen garden", "minimalist", "peaceful", "japanese"],
+      "popularity": 81,
+      "createdAt": "2024-12-23T13:20:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_025",
+      "imageUrl": "https://picsum.photos/300/400?random=25",
+      "prompt": "Portrait of a Renaissance noblewoman in elaborate period dress, ornate jewelry, classical painting style, soft lighting, oil painting technique, historical elegance",
+      "category": "Portrait",
+      "tags": ["renaissance", "noblewoman", "classical", "elegant"],
+      "popularity": 83,
+      "createdAt": "2024-12-22T17:10:00Z",
+      "isFeatured": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat_001",
+      "name": "New",
+      "description": "Latest AI prompt creations",
+      "color": "#2196F3",
+      "icon": "new_releases",
+      "itemCount": 8
+    },
+    {
+      "id": "cat_002", 
+      "name": "Trending",
+      "description": "Most popular prompts right now",
+      "color": "#FF5722",
+      "icon": "trending_up",
+      "itemCount": 6
+    },
+    {
+      "id": "cat_003",
+      "name": "Portrait",
+      "description": "Human and character portraits",
+      "color": "#9C27B0",
+      "icon": "person",
+      "itemCount": 6
+    },
+    {
+      "id": "cat_004",
+      "name": "Cinematic", 
+      "description": "Movie-style dramatic scenes",
+      "color": "#FF9800",
+      "icon": "movie",
+      "itemCount": 5
+    }
+  ],
+  "app_config": {
+    "version": "1.0.0",
+    "min_app_version": "1.0.0",
+    "whatsapp_channel_url": "https://whatsapp.com/channel/your-channel-id",
+    "privacy_policy_url": "https://yourapp.com/privacy-policy",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.yourapp.aiprompt",
+    "app_store_url": "https://apps.apple.com/app/ai-prompt-generator/id123456789",
+    "support_email": "support@yourapp.com",
+    "ad_config": {
+      "banner_ad_unit_id_android": "ca-app-pub-3940256099942544/6300978111",
+      "banner_ad_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",
+      "rewarded_ad_unit_id_android": "ca-app-pub-3940256099942544/5224354917",
+      "rewarded_ad_unit_id_ios": "ca-app-pub-3940256099942544/1712485313",
+      "show_ads": true,
+      "ad_frequency": 3
+    }
+  },
+  "pagination": {
+    "items_per_page": 10,
+    "max_items": 100
+  }
+}
